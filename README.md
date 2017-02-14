@@ -17,3 +17,6 @@
 | 3mm T1 LED                        | Digikey: [160-1034-ND](http://www.digikey.com/product-detail/en/LTL-4266N/160-1034-ND/121770)*                    | 3     |
 | ~220 Ω resistor (match to led)    | Digikey: [220QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-220R/220QBK-ND/1295)*                   | 3     |
 | Cherry MX switch                  | [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1036)                 | 76    |
+
+### Finished Build
+![Image of final build] (http://i.imgur.com/wvkEXcA.png)
