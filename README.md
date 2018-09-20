@@ -19,4 +19,4 @@
 | Cherry MX switch                  | [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1036)                 | 76    |
 
 ### Finished Build
-![Image of final build] (http://i.imgur.com/wvkEXcA.png)
+![Image of final build](http://i.imgur.com/wvkEXcA.png)
