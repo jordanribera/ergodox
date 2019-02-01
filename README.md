@@ -20,3 +20,6 @@
 
 ### Finished Build
 ![Image of final build](http://i.imgur.com/wvkEXcA.png)
+
+### Laser Action
+Here is a short [video](https://www.youtube.com/watch?v=3c_WGr0BrY0) of the case cutting process.
