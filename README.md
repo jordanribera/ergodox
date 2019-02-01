@@ -18,8 +18,8 @@
 | ~220 Ω resistor (match to led)    | Digikey: [220QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-220R/220QBK-ND/1295)*                   | 3     |
 | Cherry MX switch                  | [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1036)                 | 76    |
 
-### Finished Build
-![Image of final build](http://i.imgur.com/wvkEXcA.png)
-
 ### Laser Action
 Here is a short [video](https://www.youtube.com/watch?v=3c_WGr0BrY0) of the case cutting process.
+
+### Finished Build
+![Image of final build](http://i.imgur.com/wvkEXcA.png)
